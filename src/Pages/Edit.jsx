@@ -38,7 +38,7 @@ function Edit() {
     <div className='d-flex w-100 vh-100 justify-content-center align-items-center'>
 
    
-<div className='w-50 border shadow p-5'>
+<div className=' border shadow p-5'>
   <h4 className='text-center text-dark'>Update User</h4>
   <form action="" onSubmit={handleUpdate} >
 
